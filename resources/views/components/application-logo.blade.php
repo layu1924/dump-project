@@ -1,0 +1,1 @@
+<img src="{{ asset('images/qae.png') }}" alt="QA Engineer Logo" class="w-64 md:w-96 h-auto object-contain rounded-lg">
